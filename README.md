@@ -62,43 +62,6 @@ It features dynamic article management, automated form logic, stock tracking, ch
 
 ---
 
-## 📁 Project Structure
-
-FOOTWEAR-INVENTORY/
-│
-├── backend/
-│   ├── config/           # DB configurations
-│   ├── controllers/      # Business logic (auth, chalan, PDF, product, size/pricing)
-│   ├── middlewares/      # Authentication, error handling, file upload
-│   ├── models/           # Mongoose models (Challan, Product, User, etc.)
-│   ├── routes/           # API endpoints (auth, product, chalan, PDF, upload, etc.)
-│   ├── uploads/          # Uploaded images/files (products, challans)
-│   ├── utils/            # Utility functions
-│   ├── package.json
-│   └── server.js
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── products/         # ProductForm, ProductListTable, etc.
-│   │   │   ├── Calculator.js
-│   │   │   ├── Dashboard.js
-│   │   │   ├── Layout.js
-│   │   │   ├── PrivateRoute.js
-│   │   │   └── SearchBar.js
-│   │   ├── context/              # AuthContext
-│   │   ├── pages/                # ChallanForm, ChallanList, DeletedProducts, EvaGents, etc.
-│   │   ├── utils/
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── App.test.js
-│   ├── node_modules/
-│   └── package.json
-│
-├── .gitignore
-└── README.md
-
 ⚙️ Setup & Installation
 
 **Clone the repository:**
@@ -142,17 +105,17 @@ PDF Export : without image :
 Challan Pdf :
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/b7248097-e323-4093-ab3e-542b53aa3210" />
 
-🧪 Future Enhancements
+🧪 Future Enhancements :
 - Role-based Access Control (Admin/Staff)
 - Analytics Dashboard with charts
 - Mobile Responsive PWA
 
-👩‍💻 Developed By
+👩‍💻 Developed By :
 Kajal (Solo Developer)
 Based on requirements from the GP Fax Pvt. Ltd. Footwear Company
 Built with ❤️ using MERN Stack
 
-📝 License
+📝 License :
 This project is proprietary and for internal company use only.
 
                    
