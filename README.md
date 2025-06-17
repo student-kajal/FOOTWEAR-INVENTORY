@@ -149,7 +149,7 @@ Challan Pdf :
 
 👩‍💻 Developed By
 Kajal (Solo Developer)
-Based on requirements from the GP Fax Footwear Company
+Based on requirements from the GP Fax Pvt. Ltd. Footwear Company
 Built with ❤️ using MERN Stack
 
 📝 License
