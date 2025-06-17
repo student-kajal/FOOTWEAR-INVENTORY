@@ -121,13 +121,21 @@ MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 
 🖼️ Screenshots
-Form with auto-freeze fields & image preview : <img width="689" alt="image" src="https://github.com/user-attachments/assets/99394a2e-c5c9-46f3-b1db-c6ecd84bdf37" />
-Main table with filters and search : <img width="883" alt="image" src="https://github.com/user-attachments/assets/6a44449a-9daa-4a24-ad06-6f2ba78e8e37" />
-Export (Excel) :without images: <img width="950" alt="image" src="https://github.com/user-attachments/assets/3228770c-25ef-4dbb-b3b4-6681990a3ebc" />
-Export (Excel) :with images:<img width="957" alt="image" src="https://github.com/user-attachments/assets/40b488cc-dd91-4a1d-a71d-246ff85c1522" />
-PDF Export : with image : <img width="955" alt="image" src="https://github.com/user-attachments/assets/72f462fe-d59a-4a67-8819-2d388465f6df" />
-PDF Export : without image : <img width="950" alt="image" src="https://github.com/user-attachments/assets/193be8e7-01c3-4751-b349-650fb2919327" />
-Challan Pdf : <img width="947" alt="image" src="https://github.com/user-attachments/assets/b7248097-e323-4093-ab3e-542b53aa3210" />
+Form with auto-freeze fields & image preview :
+<img width="689" alt="image" src="https://github.com/user-attachments/assets/99394a2e-c5c9-46f3-b1db-c6ecd84bdf37" />
+Main table with filters and search : 
+<img width="883" alt="image" src="https://github.com/user-attachments/assets/6a44449a-9daa-4a24-ad06-6f2ba78e8e37" />
+Export (Excel) :without images:
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/3228770c-25ef-4dbb-b3b4-6681990a3ebc" />
+Export (Excel) :with images:
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/40b488cc-dd91-4a1d-a71d-246ff85c1522" />
+PDF Export : with image : 
+<img width="955" alt="image" src="https://github.com/user-attachments/assets/72f462fe-d59a-4a67-8819-2d388465f6df" />
+PDF Export : without image :
+<img width="950" alt="image" src="https://github.com/user-attachments/assets/193be8e7-01c3-4751-b349-650fb2919327" />
+Challan Pdf :
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/b7248097-e323-4093-ab3e-542b53aa3210" />
+
 🧪 Future Enhancements
 - Role-based Access Control (Admin/Staff)
 - Analytics Dashboard with charts
