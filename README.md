@@ -71,7 +71,8 @@ git clone <repo-url>
 cd FOOTWEAR-INVENTORY
 
 **Backend Setup:**
-bash
+
+<code>``` bash</code> 
 cd backend
 npm install
 # Create .env file with MongoDB URI and JWT secret
@@ -81,7 +82,8 @@ npm start
 bash
 cd frontend
 npm install
-npm start
+npm start ```
+
 
 **Environment Variables:**
 Create .env in /backend:
